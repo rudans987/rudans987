@@ -3,7 +3,7 @@
 🌱 꾸준히 성장하는 개발자가 되고자 노력 중입니다.<br/>
 🚀 협업할 때 책임감을 느끼고 긍정적인 에너지를 가지고 있습니다.<br/>
 
-🛠 main skill
+🛠 skill
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
